@@ -1,7 +1,7 @@
-- 👋 Hi, This is Purushottam..
-- 👀 I’m interested in data Analysis...
-- 🌱 I’m currently AI & ML
-- 💞️ I’m looking to Real world analysis project..
+- 👋 Hi, I'm Purushottam.
+- 👨‍💻 I specialize in Data Analysis, with a strong focus on AI & ML.
+- 🌱 Currently enhancing my skills in Artificial Intelligence and Machine Learning.
+-💼 Seeking real-world projects to apply data analysis and machine learning techniques.
 - 📫 Reach me At purushottam21028@gmail.com
 
 <!---
